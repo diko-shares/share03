@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:0
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:0,
+https://raw.githubusercontent.com/dikodahan/share03/main/subs/5033998/221793/221793.vtt
+#EXT-X-ENDLIST
