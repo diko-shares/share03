@@ -86,7 +86,7 @@ load HTML5.js from the web after production:
       <h1 class="h1">Error 500</h1>
               <span class="h1">Oooops. We are down.<br>
                 But don't worry, we will be back up shortly.</span>
-              <h2 class="h2">Please come back later, or <a href="/cdn-cgi/l/email-protection#81f2f4f1f1eef3f5c1eef1e4eff2f4e3f5e8f5ede4f2afeef3e6">contact us</a>.</h2>
+              <h2 class="h2">Please come back later, or <a href="/cdn-cgi/l/email-protection#c8bbbdb8b8a7babc88a7b8ada6bbbdaabca1bca4adbbe6a7baaf">contact us</a>.</h2>
             </div>
 
             <div class="logo">
